@@ -47,7 +47,7 @@ enum {
 };
 
 typedef struct effect_context_s effect_context_t;
-typedef struct output_context_s output_context_t;
+//typedef struct output_context_s output_context_t;
 
 /* effect specific operations. Only the init() and process() operations must be defined.
  * Others are optional.
